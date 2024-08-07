@@ -1,0 +1,1 @@
+Developed a React.js project with a dynamic Home page for menu and food items, a Cart page for managing selections, an Order page for finalizing purchases, and Sign In/Sign Up popups for user authentication.
